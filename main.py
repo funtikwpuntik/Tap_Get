@@ -11,7 +11,7 @@ headers = {
     'accept-language': 'ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7',
     'authorization': 'Bearer ',
     'cache-control': 'no-cache',
-    'content-id': '1555645791',
+    'content-id': '',
     'content-type': 'application/json',
     'origin': 'https://app.tapswap.club',
     'pragma': 'no-cache',
